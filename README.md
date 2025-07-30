@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 🧠 Analytics Engineer 8-Month Roadmap
 
 This page is your personal guide to become an Analytics Engineer, hosted on GitHub Pages.
